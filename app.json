@@ -1,0 +1,97 @@
+{
+  "name": "Aliza Spam Bot",
+  "description": "Aliza Spam Bot For Telegram To Spam In Group's!",
+  "logo": "https://telegra.ph/file/877640c2a8cc1e55014aa.jpg",
+    "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/deepaiimsss/AlizaSpamBot",
+  "website": "https://github.com/deepaiimsss/",
+  "success_url": "https://t.me/Aliza_Support",
+  "env": {
+    "BOT_TOKEN1": {
+      "description": "Enter Your Bot Token 1. Master Bot (Main Bot). Get It From @BotFather!",
+      "value": ""
+    },
+    "BOT_TOKEN2": {
+      "description": "Enter Your Bot Token 2. Get It From @BotFather!",
+      "value": "",
+      "required": false
+    },
+    "BOT_TOKEN3": {
+      "description": "Enter Your Bot Token 3. Get It From @BotFather!",
+      "value": "",
+      "required": false
+    },
+    "BOT_TOKEN4": {
+      "description": "Enter Your Bot Token 4. Get It From @BotFather!",
+      "value": "",
+      "required": false
+    },
+    "BOT_TOKEN5": {
+      "description": "Enter Your Bot Token 5. Get It From @BotFather!",
+      "value": "",
+      "required": false
+    },
+    "OWNER_NAME": {
+      "description": "Enter Your Good Name Of Telegram!",
+      "value": "",
+      "required": false
+    },
+    "OWNER_USERNAME": {
+      "description": "Enter Your Telegram Username Without @!",
+      "value": "",
+      "required": false
+    },
+    "OWNER_ID": {
+      "description": "Enter Your Telegram User ID To Get Full Access Of Your Bot. Go To Rose Bot And Send /id To Get Your Owner User ID. Only One User Can Be Owner Of Bot!",
+      "value": ""
+    },
+    "CO_OWNER_ID": {
+      "description": "Enter Your Co-Owner's Telegram User ID To Get Full Access Of Bot. Go To Rose Bot And Send /id To Get Your Co-Owner User ID. Don't Put Comma ( , ) In Vars Just Give A Space And Put Another User ID!",
+      "value": "",
+      "required": false
+    },
+    "SUDO_USERS": {
+      "description": "Enter Your Sudo User's Telegram User ID To Access Commands Of Bot. Go To Rose Bot And Send /id To Get Your Sudo User ID. Don't Put Comma ( , ) In Vars Just Give A Space And Put Another User ID!",
+      "value": "",
+      "required": false
+    },
+    "DISPLAY_PIC": {
+      "description": "Enter Your Bot Display Pic. Put Telegraph Link!",
+      "value": "",
+      "required": false
+    },
+    "BIO_MSG": {
+      "description": "Enter Your Bot Bio Message To Show In Alive Command!",
+      "value": "",
+      "required": false
+    },
+    "API_ID": {
+      "description": "Enter Your Telegram Api Id. Get It From my.telegram.org!",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Enter Your Telegram Api Hash. Get It From my.telegram.org!",
+      "value": ""
+    },
+    "HEROKU_API_KEY": {
+      "description": "Enter Your Heroku Api Key. Get It From dashboard.heroku.com/account!",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Enter Your Heroku App Name!",
+      "value": "",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+  }]
+}
