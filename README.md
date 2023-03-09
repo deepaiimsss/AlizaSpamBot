@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/e79f3c2e32bd08c181f36.png" align="right" width="300" height="300"/>
+<img src="https://telegra.ph/file/877640c2a8cc1e55014aa.png" align="right" width="300" height="300"/>
 
 # Aliza SpamBot <img src="https://img.shields.io/github/v/release/deepaiimsss/AlizaSpamBott?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
