@@ -2,7 +2,7 @@
 
 # Aliza SpamBot <img src="https://img.shields.io/github/v/release/deepaiimsss/AlizaSpamBott?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Aliza Robot](https://github.com/deepaiimsss/AlizaSpamBot) is a Powerful Telegram SpamBot written in Python using  Telethon by which you can spam your enemies in its best way.
+[Aliza SpamBot](https://github.com/deepaiimsss/AlizaSpamBot) is a Powerful Telegram SpamBot written in Python using  Telethon by which you can spam your enemies in its best way.
 
 * Written from scratch, making it stable and less crashes.
 * Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
