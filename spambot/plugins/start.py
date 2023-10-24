@@ -34,4 +34,4 @@ Owner:- {myOwner}
 Sudo:- {sudo_user}
 Creator:- {creator}
     """
-        await e.client.send_file(e.chat_id, DISPLAY_PIC, caption=ON_START, buttons=data)v
+        await e.client.send_file(e.chat_id, DISPLAY_PIC, caption=ON_START, buttons=data)
