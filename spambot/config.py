@@ -11,7 +11,5 @@ class Config(object):
     OWNER_ID = int(os.environ.get("OWNER_ID", "5386820700"))
     OWNER_NAME = os.environ.get("OWNER_NAME", "Deep")
     OWNER_USERNAME =os.environ.get("OWNER_USERNAME", "Itz_me_AR")
-    CO_OWNER_ID = set(int(x) for x in os.environ.get("CO_OWNER_ID", None).split())
-    SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", None).split())
     DISPLAY_PIC = os.environ.get("DISPLAY_PIC", "https://graph.org/file/99eb35e73777775a57528.jpg")
     BIO_MSG =  os.environ.get("BIO_MSG", "Maa Chudao Shavvu and Shekhu")
